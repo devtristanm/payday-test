@@ -1,0 +1,22 @@
+{
+    "name": "payday-slot",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite --open",
+        "build": "vite build",
+        "preview": "vite preview --open"
+    },
+    "dependencies": {
+        "pixi.js": "^7.4.3"
+    },
+    "devDependencies": {
+        "vite": "^5.4.19"
+    },
+    "main": "vite.config.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
